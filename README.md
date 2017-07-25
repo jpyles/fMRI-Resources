@@ -27,44 +27,45 @@ A page of information and resources on functional MRI. Suggestions welcome!
 
 ***Main fMRI Software Packages***
 
-* **[SPM](http://www.fil.ion.ucl.ac.uk/spm/)**
-* **[AFNI](https://afni.nimh.nih.gov/)**
-* **[FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)**
-* **[BrainVoyager](http://www.brainvoyager.com/)**
-* **[FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)**
-* **[MrVista](https://github.com/vistalab/vistasoft)**
+* **[SPM](http://www.fil.ion.ucl.ac.uk/spm/)** - The most widely used fMRI analysis software. Based in Matlab it is powerful and versatile, but has poor visualization capabilities. (From: FIL at Univ. College London)
+* **[AFNI](https://afni.nimh.nih.gov/)** - An excellent and fast Linux/Unix compiled analysis package with scripting capability and good visualization, especially when combined with the SUMA surface analysis package. (From: Medical College of Wisconsin and now based at NIH)
+* **[FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)** - Another excellent Linux/Unix compiled package with good visualization and powerful analysis and scripting capabilities. FSL also is also home to one of the standard diffusion MRI packages. (From: FMRIB, Univ. of Oxford)
+* **[BrainVoyager](http://www.brainvoyager.com/)** - A powerful cross platform compiled package with excellent visualization and surface analysis capabilities and an easy to use GUI. Requires a paid license. (From: Rainer Goebel and Brain Innovations, Maastricht, The Netherlands)
+* **[FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)** - An analysis package rooted in surface reconstruction. `recon-all` is the standard automatic segmentation routine for many researchers, even if they analyze their data in other packages. (From: The Laboratory for Computational Neuroimaging and the Martinos Center at MGH)
+* **[MrVista](https://github.com/vistalab/vistasoft)** - The analysis package developed by Brain Wandell's Vista Lab based in Matlab (with compiled portions) and optimized for surface analysis and vision science experiments. (From: VISTA Lab, Stanford)
 
 ***Other Useful MRI Software***
 
-* **[MriCron](http://people.cas.sc.edu/rorden/mricron/index.html)**
-* **[NeuroElf](http://neuroelf.net/)**
-* **[3DSlicer](https://www.slicer.org/)**
-* **[MRIConvert](http://lcni.uoregon.edu/downloads/mriconvert)**
-* **[Horos](https://www.horosproject.org/)**
-* Mango
-* FSL View
-* BROCCOLI (https://github.com/wanderine)
+* **[NeuroDebian](http://neuro.debian.net/)** - A repository for lots of neuroimaging software and an easy way to install many useful packages such as AFNI, FSL, etc.
+* **[MriCron](http://people.cas.sc.edu/rorden/mricron/index.html)** - Probably the standard cross-platform NIfTI viewer. Also includes the dcm2nii converter.
+* **[NeuroElf](http://neuroelf.net/)** - Excellent and powerful set of tools, functions, and a GUI interface that allows many formats of fMRI data to be imported and exported from Matlab. There are also tools for pre-processing and analysis. (Written and maintained by Jochen Weber at Columbia University.)
+* **[3DSlicer](https://www.slicer.org/)** - Open source medical imaging file processing and visualization tool.
+* **[MRIConvert](http://lcni.uoregon.edu/downloads/mriconvert)** - Powerful file format converter.
+* **[Horos (Mac)](https://www.horosproject.org/)** - Excellent DICOM visualization and sorting tool based off the commercial OsiriX viewer.
+* **[Mango](http://ric.uthscsa.edu/mango/)** - Medical image viewer with analysis tools.
+* **[FSL View](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)** - The viewer part of the FSL package that can also be used as a general viewer.
+* **[BROCCOLI](https://github.com/wanderine/BROCCOLI)** - A set of pre-processing and analysis routines that are optimized for GPUs.
 
 
 ***Other Useful General Software***
 
-* Cyberduck
-* Atom
-* Git
-* Slack
-* PathFinder
+* **[Cyberduck (Mac)](https://cyberduck.io/?l=en)** - Good SFTP GUI.
+* **[Atom](https://atom.io/)** - Excellent text editor that is well integrated with GitHub.
+* **[Git/GitHub](https://github.com/git)** - The standard for version tracking code (and other stuff) and making it publicly available.
+* **[Slack](https://slack.com/)** - Very userful lab/workgroup message system.
+* **[PathFinder (Mac)](https://cocoatech.com/)** - Excellent Finder replacement for OSX (because Finder is terrible). It allows sorting by extension, tabs, two pane file browsers, all the things you need to efficiently do science.
 
 
-For MVPA
+***For MVPA***
 
-libsvm
-Surfing
-PyMVPA
-Neural Decoding Toolbox
-SearchMight
-MVPA Meanderings
-Princeton MVPA Toolbox
-Some tutorials from Rochester
+* libsvm
+* Surfing
+* PyMVPA
+* Neural Decoding Toolbox
+* SearchMight
+* MVPA Meanderings
+* Princeton MVPA Toolbox
+* Some tutorials from Rochester
 
 
 
