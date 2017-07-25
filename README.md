@@ -13,13 +13,9 @@ A page of information and resources on functional MRI. Suggestions welcome!
 
 
 * **[fMRI 4 Newbies](http://culhamlab.ssc.uwo.ca/fmri4newbies/)** - Jody Culham's excellent site for intro fMRI info
-
 * **[practiCal fMRI](https://practicalfmri.blogspot.com/)** - Ben Inglis' blog on everything related to MRI physics (especially Siemens magnets) and lots on fMRI practice and other issues. An excellent resource.
-
 * **[NIH MRI Summer Course](https://fmrif.nimh.nih.gov/public/fmri-course)** - A great collection of lecture videos and slides covering many aspects of functional and structural imaging.
-
 * **[MIT Imaging Mindhive](http://mindhive.mit.edu/imaging)** - A wiki of very good information on various aspects of fMRI.
-
 * **[Data Analysis Tips I Wish I'd Known Sooner](http://deevybee.blogspot.com/2014/04/data-analysis-ten-tips-i-wish-id-known.html)** - Not imaging specific, but a good set of tips.
 
 
