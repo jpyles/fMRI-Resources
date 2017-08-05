@@ -96,3 +96,4 @@ Either submit an issue or contact me (jpyles at cmu dot edu).
 * **[Digital Anatomist](http://www9.biostr.washington.edu/da.html)** - Univ. of Washington
 * **[BrainVoyager Brain Tutor](http://www.brainvoyager.com/products/braintutor.html)**
 * **[Video of Unfixed Brain](https://youtu.be/jHxyP-nUhUY)** - A rare and important look at a post-mortem brain that has not yet been fixed, thus showing the compressibility of the brain and details of vasculature.
+* **[Marian Diamond's full anatomy course](https://www.youtube.com/watch?v=S9WtBRNydso&list=PLYaP1u75QsCDt6gTE29X758sD7-by7U_T)** - The legendary Berkeley anatomy course.
