@@ -51,6 +51,7 @@ Either submit an issue or contact me (jpyles at cmu dot edu).
 * **[NeuroDebian](http://neuro.debian.net/)** - A repository for lots of neuroimaging software and an easy way to install many useful packages such as AFNI, FSL, etc.
 * **[MriCron](http://people.cas.sc.edu/rorden/mricron/index.html)** - Probably the standard cross-platform NIfTI viewer. Also includes the dcm2nii converter.
 * **[NeuroElf](http://neuroelf.net/)** - Excellent and powerful set of tools, functions, and a GUI interface that allows many formats of fMRI data to be imported and exported from Matlab. There are also tools for pre-processing and analysis. (Written and maintained by Jochen Weber at Columbia University.)
+* **[Nipype](http://nipype.readthedocs.io/en/latest/#)** - Python project to integrate different neuroimaging software packages. (Primary developer Chris Gorgolewski at Stanford.)
 * **[3DSlicer](https://www.slicer.org/)** - Open source medical imaging file processing and visualization tool.
 * **[MRIConvert](http://lcni.uoregon.edu/downloads/mriconvert)** - Powerful file format converter.
 * **[Horos (Mac)](https://www.horosproject.org/)** - Excellent DICOM visualization and sorting tool based off the commercial OsiriX viewer.
