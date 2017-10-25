@@ -65,6 +65,8 @@ Either submit an issue or contact me (jpyles at cmu dot edu).
 * **[preprocessfmri](https://github.com/kendrickkay/preprocessfmri)** - Kendrick Kay's powerful fMRI preprocessing script. Particularly useful if fieldmap corrections are being performed.
 * **[Yeatman Lab Tools](https://github.com/yeatmanlab)** - [Jason Yeatman](http://www.jasonyeatman.com/)'s lab at the Univ. of Washington has a number of useful tools for MRI.
 * **[CoAxLab Tools](https://github.com/CoAxLab)** - Software and tools from the Cognitive Axon Lab at Carnegie Mellon.
+* **[Surf Ice](https://www.nitrc.org/projects/surfice/)** - Software for visualizing many types of fMRI data.
+
 
 ***Other Useful General Software***
 
