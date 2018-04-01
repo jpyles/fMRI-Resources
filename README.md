@@ -88,6 +88,21 @@ Either submit an issue or contact me (jpyles at cmu dot edu).
 * **[MVPA Meanderings](http://mvpa.blogspot.com/)** - Very good blog on issues in MVPA.
 * **[Some tutorials from Rochester](http://www2.bcs.rochester.edu/sites/raizada/fmri-matlab.html)**
 
+***For BIDS Conversion***
+
+* **[BIDS Specification](http://bids.neuroimaging.io/bids_spec1.0.2.pdf)** 
+* **[BIDS Citation Paper](https://www.nature.com/articles/sdata201644)**
+* **[Useful Tutorial](http://reproducibility.stanford.edu/bids-tutorial-series-part-1a/)**
+* **[https://github.com/nipy/heudiconv](https://github.com/nipy/heudiconv)** - Going from DICOMS to BIDS datasets (with folder structure)
+* **[https://github.com/cbedetti/Dcm2Bids](https://github.com/cbedetti/Dcm2Bids)** - Going from DICOMS to BIDS datasets (with folder structure)
+* **[https://github.com/jmtyszka/bidskit](https://github.com/jmtyszka/bidskit)** - Going from DICOMS to BIDS datasets (with folder structure)
+* **[https://github.com/dangom/dac2bids](https://github.com/dangom/dac2bids)** - Going from DICOMS to BIDS datasets (with folder structure)
+* **[https://github.com/jooh/Dcm2Bids](https://github.com/jooh/Dcm2Bids)** - Going from DICOMS to BIDS datasets (with folder structure)
+* **[https://github.com/suyashdb/hcp2bids](https://github.com/suyashdb/hcp2bids)** - HCP to BIDS
+* **[https://github.com/INCF/openfmri2bids](https://github.com/INCF/openfmri2bids)** - OpenfMRI to BIDS
+
+
+
 
 
 ## Brain Anatomy
