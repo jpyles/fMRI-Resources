@@ -23,6 +23,8 @@ Either submit an issue or contact me (jpyles at cmu dot edu).
 * **[Harvard Center for Brain Science FAQ](http://cbs.fas.harvard.edu/science/core-facilities/neuroimaging/information-investigators/MRphysicsfaq)** - Very good MRI FAQ.
 * **[Beauchamp Lab Wiki](http://www.openwetware.org/wiki/Beauchamp:Lab_Notebook)** - Michael Beauchamp has an excellent lab wiki with lots of useful info.
 * **[Aguirre Lab](https://cfn.upenn.edu/aguirre/wiki/public:methods)** - Useful resources from Geoff Aguirre's lab website at Univ. of Pennsylvania.
+* **[UCSD Fundamentals of Functional Neuroimaging Course](https://www.youtube.com/playlist?list=PLn7hWU9T1O6FExueed50s9Wl98dzSLmXL)** - Excellent complete fMRI course that is online from Tom Liu.
+* **[SDSU Foundations of Neuroimaging Course](https://pages.ucsd.edu/~msereno/569/.lectures.html)** - A technical and excellent course on MRI from Marty Sereno.
 
 ***Other Useful General Research Sites***
 * **[Data Analysis Tips I Wish I'd Known Sooner](http://deevybee.blogspot.com/2014/04/data-analysis-ten-tips-i-wish-id-known.html)** - A good set of tips.
